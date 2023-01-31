@@ -357,7 +357,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2296054300051761749, guid: cae5ca3efbeab814b8b5de33fae0d886, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.994436
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2296054300051761749, guid: cae5ca3efbeab814b8b5de33fae0d886, type: 3}
       propertyPath: m_LocalRotation.w
@@ -410,6 +410,10 @@ PrefabInstance:
     - target: {fileID: 3173431017956818435, guid: cae5ca3efbeab814b8b5de33fae0d886, type: 3}
       propertyPath: m_Name
       value: Ooze
+      objectReference: {fileID: 0}
+    - target: {fileID: 3354149902039762774, guid: cae5ca3efbeab814b8b5de33fae0d886, type: 3}
+      propertyPath: m_Constraints
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 3354149902039762774, guid: cae5ca3efbeab814b8b5de33fae0d886, type: 3}
       propertyPath: m_GravityScale

@@ -8,14 +8,30 @@ public class eMove : MonoBehaviour
     #region Private
     private int num;
     private Rigidbody2D rb;
+    private float waitTime;
     #endregion
 
     #region Public
     #endregion
     #endregion
 
+    private void Start()
+    {
+        waitTime = Time.time + Random.Range(1f, 3f);
+    }
+
+    private void Update()
+    {
+
+        if (Time.time > waitTime)
+        {
+            waitTime = Time.time + Random.Range(1f, 3f);
+            Walk();
+        }
+    }
+
     // Update is called once per frame
-    void Update()
+    void Walk()
     {
         var r = new System.Random();
         num = r.Next(1, 4);
