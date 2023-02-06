@@ -11,6 +11,7 @@ public class pMove : MonoBehaviour
     #endregion
 
     #region Public
+    public float speed;
     #endregion
     #endregion
 
@@ -28,11 +29,14 @@ public class pMove : MonoBehaviour
         #endregion
         mDelta = new Vector3(x, y, 0);
 
+        /*
         if (mDelta.x > 0)
-            transform.localScale = Vector3.one;
+            transform.localScale = new Vector3.one;
         else if (mDelta.x < 0)
-            transform.localScale = new Vector3(-1, 1, 1);
+            transform.localScale = new Vector3(6, 6, 0);
+        */
 
-        transform.Translate(mDelta * Time.deltaTime);
+        // transform.Translate(mDelta * Time.deltaTime);
+        transform.Translate(mDelta * speed);
     }
 }

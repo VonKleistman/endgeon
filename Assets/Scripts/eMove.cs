@@ -38,19 +38,19 @@ public class eMove : MonoBehaviour
 
         if (num == 1)
         {
-            transform.Translate(0, .2f, 1);
+            transform.Translate(0, 1, 0);
         }
         else if (num == 2)
         {
-            transform.Translate(.2f, 0, 1);
+            transform.Translate(1, 0, 0);
         }
         else if (num == 3)
         {
-            transform.Translate(0, -.2f, 1);
+            transform.Translate(0, -1, 0);
         }
         else
         {
-            transform.Translate(-.2f, 0, 1);
+            transform.Translate(-1, 0, 0);
         }
     }
 }

@@ -246,7 +246,7 @@ TextureImporter:
       213: -8989370590106507785
     second: Engeon tilemap_80
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -267,6 +267,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -305,6 +306,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -332,6 +334,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -2056,6 +2070,88 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Engeon tilemap_64: -3359083273699889535
+      Engeon tilemap_39: -3036773224477479510
+      Engeon tilemap_69: -1034542075231544084
+      Engeon tilemap_22: 6622270711507353147
+      Engeon tilemap_34: -8995754101521914276
+      Engeon tilemap_25: 5373570616426373069
+      Engeon tilemap_46: -2114334017461676900
+      Engeon tilemap_43: -6371382720582927760
+      Engeon tilemap_4: -7700237408687392112
+      Engeon tilemap_7: 6253819717757357740
+      Engeon tilemap_13: -879085454459265187
+      Engeon tilemap_0: -2550609594081971533
+      Engeon tilemap_18: -5649584514116840183
+      Engeon tilemap_59: 8755596117641358441
+      Engeon tilemap_15: 778137935184292811
+      Engeon tilemap_68: 1192215647167423560
+      Engeon tilemap_40: -1998265243837743720
+      Engeon tilemap_63: -1859367363628760652
+      Engeon tilemap_21: 7437815689707938991
+      Engeon tilemap_31: -1942820676398492127
+      Engeon tilemap_50: 3181206060183903453
+      Engeon tilemap_58: -5797445770372670388
+      Engeon tilemap_5: -3808140312799021358
+      Engeon tilemap_16: 1901789144869411556
+      Engeon tilemap_37: -7341226628786002125
+      Engeon tilemap_36: 5564423680379158604
+      Engeon tilemap_49: 1121617757933740743
+      Engeon tilemap_29: -641060612146652418
+      Engeon tilemap_9: -6698541765147475486
+      Engeon tilemap_38: 4853168942153974384
+      Engeon tilemap_47: -7766367004822780376
+      Engeon tilemap_17: 5363321050660245691
+      Engeon tilemap_51: 1525980994594893294
+      Engeon tilemap_26: -5977914292578704384
+      Engeon tilemap_28: -3212630872214131747
+      Engeon tilemap_56: 6850713773967696358
+      Engeon tilemap_61: -5160487206366694856
+      Engeon tilemap_77: 1507065539100268461
+      Engeon tilemap_2: 6816958554049150603
+      Engeon tilemap_11: 6350258899727480495
+      Engeon tilemap_19: 7557453465842913586
+      Engeon tilemap_57: -6015423261195513608
+      Engeon tilemap_55: 6999146992296896526
+      Engeon tilemap_20: 5682221678523453245
+      Engeon tilemap_54: 1643456976831699547
+      Engeon tilemap_41: 6203658645615619820
+      Engeon tilemap_53: -3005551662334930677
+      Engeon tilemap_72: -6116533337550848429
+      Engeon tilemap_42: -6448049704327877242
+      Engeon tilemap_60: 3260963344631064401
+      Engeon tilemap_44: 9097998761214315225
+      Engeon tilemap_73: 6405260414482699025
+      Engeon tilemap_3: 7857695132908129542
+      Engeon tilemap_66: -7134688271854305637
+      Engeon tilemap_70: -6641288618884246394
+      Engeon tilemap_74: -1748374367837143635
+      Engeon tilemap_52: -1755341254797985180
+      Engeon tilemap_33: -2008231845557867108
+      Engeon tilemap_76: -4062196940170719857
+      Engeon tilemap_45: -284399526607055731
+      Engeon tilemap_48: -2449441678850314179
+      Engeon tilemap_8: 1438147652776210655
+      Engeon tilemap_10: -782742271160323819
+      Engeon tilemap_23: 2887938617695263933
+      Engeon tilemap_71: 3255232430315436102
+      Engeon tilemap_62: -4575825239147232973
+      Engeon tilemap_30: 3895460116953279445
+      Engeon tilemap_32: -1304847237476981827
+      Engeon tilemap_35: 7490669900505752886
+      Engeon tilemap_67: -6958635842151134604
+      Engeon tilemap_65: 8243018119554942236
+      Engeon tilemap_78: 2136610680441194199
+      Engeon tilemap_6: -3242739657836269095
+      Engeon tilemap_75: 604457644251548108
+      Engeon tilemap_14: -5675793941656348729
+      Engeon tilemap_24: -1662696777017634082
+      Engeon tilemap_27: 3217702908227327202
+      Engeon tilemap_79: -2934710224184726906
+      Engeon tilemap_12: -1134548453144853653
+      Engeon tilemap_80: -8989370590106507785
+      Engeon tilemap_1: 3570903744858603531
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
