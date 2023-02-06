@@ -1,0 +1,2064 @@
+fileFormatVersion: 2
+guid: cac911ee23b593a40bff7c13037bbd4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2550609594081971533
+    second: Engeon tilemap_0
+  - first:
+      213: 3570903744858603531
+    second: Engeon tilemap_1
+  - first:
+      213: 6816958554049150603
+    second: Engeon tilemap_2
+  - first:
+      213: 7857695132908129542
+    second: Engeon tilemap_3
+  - first:
+      213: -7700237408687392112
+    second: Engeon tilemap_4
+  - first:
+      213: -3808140312799021358
+    second: Engeon tilemap_5
+  - first:
+      213: -3242739657836269095
+    second: Engeon tilemap_6
+  - first:
+      213: 6253819717757357740
+    second: Engeon tilemap_7
+  - first:
+      213: 1438147652776210655
+    second: Engeon tilemap_8
+  - first:
+      213: -6698541765147475486
+    second: Engeon tilemap_9
+  - first:
+      213: -782742271160323819
+    second: Engeon tilemap_10
+  - first:
+      213: 6350258899727480495
+    second: Engeon tilemap_11
+  - first:
+      213: -1134548453144853653
+    second: Engeon tilemap_12
+  - first:
+      213: -879085454459265187
+    second: Engeon tilemap_13
+  - first:
+      213: -5675793941656348729
+    second: Engeon tilemap_14
+  - first:
+      213: 778137935184292811
+    second: Engeon tilemap_15
+  - first:
+      213: 1901789144869411556
+    second: Engeon tilemap_16
+  - first:
+      213: 5363321050660245691
+    second: Engeon tilemap_17
+  - first:
+      213: -5649584514116840183
+    second: Engeon tilemap_18
+  - first:
+      213: 7557453465842913586
+    second: Engeon tilemap_19
+  - first:
+      213: 5682221678523453245
+    second: Engeon tilemap_20
+  - first:
+      213: 7437815689707938991
+    second: Engeon tilemap_21
+  - first:
+      213: 6622270711507353147
+    second: Engeon tilemap_22
+  - first:
+      213: 2887938617695263933
+    second: Engeon tilemap_23
+  - first:
+      213: -1662696777017634082
+    second: Engeon tilemap_24
+  - first:
+      213: 5373570616426373069
+    second: Engeon tilemap_25
+  - first:
+      213: -5977914292578704384
+    second: Engeon tilemap_26
+  - first:
+      213: 3217702908227327202
+    second: Engeon tilemap_27
+  - first:
+      213: -3212630872214131747
+    second: Engeon tilemap_28
+  - first:
+      213: -641060612146652418
+    second: Engeon tilemap_29
+  - first:
+      213: 3895460116953279445
+    second: Engeon tilemap_30
+  - first:
+      213: -1942820676398492127
+    second: Engeon tilemap_31
+  - first:
+      213: -1304847237476981827
+    second: Engeon tilemap_32
+  - first:
+      213: -2008231845557867108
+    second: Engeon tilemap_33
+  - first:
+      213: -8995754101521914276
+    second: Engeon tilemap_34
+  - first:
+      213: 7490669900505752886
+    second: Engeon tilemap_35
+  - first:
+      213: 5564423680379158604
+    second: Engeon tilemap_36
+  - first:
+      213: -7341226628786002125
+    second: Engeon tilemap_37
+  - first:
+      213: 4853168942153974384
+    second: Engeon tilemap_38
+  - first:
+      213: -3036773224477479510
+    second: Engeon tilemap_39
+  - first:
+      213: -1998265243837743720
+    second: Engeon tilemap_40
+  - first:
+      213: 6203658645615619820
+    second: Engeon tilemap_41
+  - first:
+      213: -6448049704327877242
+    second: Engeon tilemap_42
+  - first:
+      213: -6371382720582927760
+    second: Engeon tilemap_43
+  - first:
+      213: 9097998761214315225
+    second: Engeon tilemap_44
+  - first:
+      213: -284399526607055731
+    second: Engeon tilemap_45
+  - first:
+      213: -2114334017461676900
+    second: Engeon tilemap_46
+  - first:
+      213: -7766367004822780376
+    second: Engeon tilemap_47
+  - first:
+      213: -2449441678850314179
+    second: Engeon tilemap_48
+  - first:
+      213: 1121617757933740743
+    second: Engeon tilemap_49
+  - first:
+      213: 3181206060183903453
+    second: Engeon tilemap_50
+  - first:
+      213: 1525980994594893294
+    second: Engeon tilemap_51
+  - first:
+      213: -1755341254797985180
+    second: Engeon tilemap_52
+  - first:
+      213: -3005551662334930677
+    second: Engeon tilemap_53
+  - first:
+      213: 1643456976831699547
+    second: Engeon tilemap_54
+  - first:
+      213: 6999146992296896526
+    second: Engeon tilemap_55
+  - first:
+      213: 6850713773967696358
+    second: Engeon tilemap_56
+  - first:
+      213: -6015423261195513608
+    second: Engeon tilemap_57
+  - first:
+      213: -5797445770372670388
+    second: Engeon tilemap_58
+  - first:
+      213: 8755596117641358441
+    second: Engeon tilemap_59
+  - first:
+      213: 3260963344631064401
+    second: Engeon tilemap_60
+  - first:
+      213: -5160487206366694856
+    second: Engeon tilemap_61
+  - first:
+      213: -4575825239147232973
+    second: Engeon tilemap_62
+  - first:
+      213: -1859367363628760652
+    second: Engeon tilemap_63
+  - first:
+      213: -3359083273699889535
+    second: Engeon tilemap_64
+  - first:
+      213: 8243018119554942236
+    second: Engeon tilemap_65
+  - first:
+      213: -7134688271854305637
+    second: Engeon tilemap_66
+  - first:
+      213: -6958635842151134604
+    second: Engeon tilemap_67
+  - first:
+      213: 1192215647167423560
+    second: Engeon tilemap_68
+  - first:
+      213: -1034542075231544084
+    second: Engeon tilemap_69
+  - first:
+      213: -6641288618884246394
+    second: Engeon tilemap_70
+  - first:
+      213: 3255232430315436102
+    second: Engeon tilemap_71
+  - first:
+      213: -6116533337550848429
+    second: Engeon tilemap_72
+  - first:
+      213: 6405260414482699025
+    second: Engeon tilemap_73
+  - first:
+      213: -1748374367837143635
+    second: Engeon tilemap_74
+  - first:
+      213: 604457644251548108
+    second: Engeon tilemap_75
+  - first:
+      213: -4062196940170719857
+    second: Engeon tilemap_76
+  - first:
+      213: 1507065539100268461
+    second: Engeon tilemap_77
+  - first:
+      213: 2136610680441194199
+    second: Engeon tilemap_78
+  - first:
+      213: -2934710224184726906
+    second: Engeon tilemap_79
+  - first:
+      213: -8989370590106507785
+    second: Engeon tilemap_80
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Engeon tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b27a00861a6a9cd0800000000000000
+      internalID: -2550609594081971533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00c86759066e8130800000000000000
+      internalID: 3570903744858603531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ef8a6efa3ba9e50800000000000000
+      internalID: 6816958554049150603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d0e4e67142c0d60800000000000000
+      internalID: 7857695132908129542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a7309dfd2432590800000000000000
+      internalID: -7700237408687392112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6f4c8df84c62bc0800000000000000
+      internalID: -3808140312799021358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1f89346797ff2d0800000000000000
+      internalID: -3242739657836269095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caec24e26e70ac650800000000000000
+      internalID: 6253819717757357740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0b94aaba355f310800000000000000
+      internalID: 1438147652776210655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1444741cff903a0800000000000000
+      internalID: -6698541765147475486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5117ec03d042325f0800000000000000
+      internalID: -782742271160323819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6f40ef2d6a02850800000000000000
+      internalID: 6350258899727480495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6305d561364140f0800000000000000
+      internalID: -1134548453144853653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f1ebfcf6cdcc3f0800000000000000
+      internalID: -879085454459265187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_14
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c752415b778b31b0800000000000000
+      internalID: -5675793941656348729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb6aec44508cca00800000000000000
+      internalID: 778137935184292811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea92a1b623846a10800000000000000
+      internalID: 1901789144869411556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb09af854185e6a40800000000000000
+      internalID: 5363321050660245691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905948331d4a891b0800000000000000
+      internalID: -5649584514116840183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2319c16d2e771e860800000000000000
+      internalID: 7557453465842913586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f0a6bc28e4bde40800000000000000
+      internalID: 5682221678523453245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_21
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa46ed966fd683760800000000000000
+      internalID: 7437815689707938991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e7ed5302807eb50800000000000000
+      internalID: 6622270711507353147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_23
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcdbd03fd4041820800000000000000
+      internalID: 2887938617695263933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_24
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed25da4371aece8e0800000000000000
+      internalID: -1662696777017634082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf12975102c29a40800000000000000
+      internalID: 5373570616426373069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_26
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004ad1d8f9e2a0da0800000000000000
+      internalID: -5977914292578704384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e491a53fb397ac20800000000000000
+      internalID: 3217702908227327202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb29333e317a63d0800000000000000
+      internalID: -3212630872214131747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_29
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa118d05ce7a17f0800000000000000
+      internalID: -641060612146652418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_30
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dba3bb56547f0630800000000000000
+      internalID: 3895460116953279445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_31
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126dbf863e6b905e0800000000000000
+      internalID: -1942820676398492127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_32
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3e804d95044ede0800000000000000
+      internalID: -1304847237476981827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d65eac6c35124e0800000000000000
+      internalID: -2008231845557867108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56e5046e49a82380800000000000000
+      internalID: -8995754101521914276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_35
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6352b55569434f760800000000000000
+      internalID: 7490669900505752886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4085c01bddc83d40800000000000000
+      internalID: 5564423680379158604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337629fc649be1a90800000000000000
+      internalID: -7341226628786002125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_38
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072cb00907be95340800000000000000
+      internalID: 4853168942153974384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_39
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad2a9387d63bd5d0800000000000000
+      internalID: -3036773224477479510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_40
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dba06195cb444e0800000000000000
+      internalID: -1998265243837743720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_41
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee23b77ba2d71650800000000000000
+      internalID: 6203658645615619820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_42
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d697705fce386a0800000000000000
+      internalID: -6448049704327877242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_43
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ab7933c2d4497a0800000000000000
+      internalID: -6371382720582927760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_44
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da8f198ba5924e70800000000000000
+      internalID: 9097998761214315225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d841c4a232c9d0cf0800000000000000
+      internalID: -284399526607055731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_46
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c941ca0d96068a2e0800000000000000
+      internalID: -2114334017461676900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_47
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826493a6b52583490800000000000000
+      internalID: -7766367004822780376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_48
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30371255c5d10ed0800000000000000
+      internalID: -2449441678850314179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_49
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c229638869c09f00800000000000000
+      internalID: 1121617757933740743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_50
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcd4969e0ae52c20800000000000000
+      internalID: 3181206060183903453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_51
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed63dc21af5d2510800000000000000
+      internalID: 1525980994594893294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_52
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a7d20dd66c3a7e0800000000000000
+      internalID: -1755341254797985180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_53
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01117cefa22a46d0800000000000000
+      internalID: -3005551662334930677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ad0bbb96bbec610800000000000000
+      internalID: 1643456976831699547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_55
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08a99e3b17f12160800000000000000
+      internalID: 6999146992296896526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_56
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1683b71ef921f50800000000000000
+      internalID: 6850713773967696358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_57
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0d1de3a6ce48ca0800000000000000
+      internalID: -6015423261195513608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_58
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c985cb9c55b8fa0800000000000000
+      internalID: -5797445770372670388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_59
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c6dc4a740228970800000000000000
+      internalID: 8755596117641358441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_60
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157ed4672e4414d20800000000000000
+      internalID: 3260963344631064401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_61
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832b09c2a344268b0800000000000000
+      internalID: -5160487206366694856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_62
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331cc5250376f70c0800000000000000
+      internalID: -4575825239147232973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b104ffeb333236e0800000000000000
+      internalID: -1859367363628760652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_64
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e692c4f832261d0800000000000000
+      internalID: -3359083273699889535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_65
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c154e2d6e45156270800000000000000
+      internalID: 8243018119554942236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_66
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e7af461de7cfc90800000000000000
+      internalID: -7134688271854305637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_67
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ac74be195fd6f90800000000000000
+      internalID: -6958635842151134604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_68
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844a31180d99b8010800000000000000
+      internalID: 1192215647167423560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_69
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecd0acb67194a1f0800000000000000
+      internalID: -1034542075231544084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_70
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6845f8c203765d3a0800000000000000
+      internalID: -6641288618884246394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_71
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648784ef5a8ec2d20800000000000000
+      internalID: 3255232430315436102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e72761655bd1ba0800000000000000
+      internalID: -6116533337550848429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_73
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113dc13196e04e850800000000000000
+      internalID: 6405260414482699025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_74
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad3ba696c68cb7e0800000000000000
+      internalID: -1748374367837143635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_75
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9026f5607736800800000000000000
+      internalID: 604457644251548108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_76
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d0275c76d20a7c0800000000000000
+      internalID: -4062196940170719857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_77
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7dd4f7f1c2ae410800000000000000
+      internalID: 1507065539100268461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_78
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6c007f714c6ad10800000000000000
+      internalID: 2136610680441194199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_79
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a23c09990d547d0800000000000000
+      internalID: -2934710224184726906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engeon tilemap_80
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5ab5673175f3380800000000000000
+      internalID: -8989370590106507785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
